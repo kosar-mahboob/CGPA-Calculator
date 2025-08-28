@@ -28,7 +28,8 @@ public class Course {
             case "D": return 1.0;
             case "F": return 0.0;
             default: return 0.0; // For pass/fail or other non-grade courses
-        }
+       
+ }
     }
 
     // Getters and setters
