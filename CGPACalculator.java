@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class CGPACalculator {
     private List<Semester> semesters;
     private String gradingScale;
