@@ -13,6 +13,7 @@ This repository contains four core components:
 
 ## 🎯 Features
 
+
 - Add and manage multiple semesters.
 - Add and manage individual courses within each semester.
 - Calculate SGPA for each semester.
