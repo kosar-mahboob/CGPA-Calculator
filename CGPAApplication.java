@@ -27,6 +27,7 @@ public class CGPAApplication {
                 case 4:
                     whatIfAnalysis();
                     break;
+
                 case 5:
                     setGradingScale();
                     break;
