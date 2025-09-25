@@ -21,6 +21,7 @@ This repository contains four core components:
 - Modular structure for easy integration or expansion.
 
 
+
 ## 🧪 Example Use Case
 
 1. The student enters course data (grade & credits) for each semester.
