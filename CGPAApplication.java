@@ -176,3 +176,4 @@ public class CGPAApplication {
         System.out.println("Grading scale updated.");
     }
 }
+
